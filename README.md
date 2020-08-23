@@ -3,4 +3,4 @@ Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Ciê
 
 <p>Autor: GABRIEL RODRIGUES MARCOLINI </P> 
 
-<p>Autor: BELO HORIZONTE - 2020 </P> 
+<p>BELO HORIZONTE - 2020</P> 
